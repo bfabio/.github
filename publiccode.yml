@@ -1,6 +1,6 @@
 publiccodeYmlVersion: "0.2"
 applicationSuite: immuni
-url: "https://github.com/immuni-app/immuni"
+url: "https://github.com/immuni-app/.github"
 name: immuni
 releaseDate: '2022-03-11'
 softwareType: standalone/mobile
